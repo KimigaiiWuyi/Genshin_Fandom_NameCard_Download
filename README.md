@@ -1,0 +1,2 @@
+# Genshin_Fandom_NameCard_Download
+从fandom批量下载角色名片
